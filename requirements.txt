@@ -11,4 +11,5 @@ transformers
 tensorflow
 deep_translator
 langdetect
+plotly>=5.0.0
 
